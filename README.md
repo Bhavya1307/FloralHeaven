@@ -47,7 +47,7 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
 
 ## Running the Project
 
-To run the project in a development environment, use:
+1. To run the project in a development environment, use:
    ```bash
    npm run dev
 
