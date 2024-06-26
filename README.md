@@ -37,3 +37,29 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
    MONGODB_URI=your_mongodb_connection_string
 
 ## Usage
+
+1. **Start the server:**
+   ```bash
+   npm start
+
+2. **Access the application:**
+   Open your browser and go to http://localhost:8888
+
+## Running the Project
+
+To run the project in a development environment, use:
+```bash
+npm run dev
+
+## Technologies Used
+
+Backend:
+
+- Node.js
+- Express
+- MongoDB
+
+Frontend:
+
+- Pug template engine
+- CSS
