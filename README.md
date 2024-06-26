@@ -29,3 +29,11 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
 2. **Install dependencies:**
    ```bash
    npm install
+
+3. **Set up the database:**
+   - Make sure you have MongoDB installed and running on your machine.
+   - Create a .env file in the root directory and add your MongoDB connection string:
+   ```bash
+   MONGODB_URI=your_mongodb_connection_string
+
+## Usage
