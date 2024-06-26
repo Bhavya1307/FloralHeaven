@@ -18,6 +18,7 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
 - [Running the Project](#running-the-project)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
+- [Contact](#Contact)
 
 ## Installation
 
@@ -63,3 +64,9 @@ Frontend:
 
 - Pug template engine
 - CSS
+
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss potential changes.
+
+## Contact
+For any questions or feedback, please contact [bdp9834@gmail.com](mailto:bdp9834@gmail.com).
