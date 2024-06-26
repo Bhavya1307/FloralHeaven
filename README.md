@@ -16,10 +16,8 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Running the Project](#running-the-project)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -27,3 +25,7 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
    ```bash
    git clone https://github.com/yourusername/FloralHeaven.git
    cd FloralHeaven
+
+2. **Install dependencies:**
+   ```bash
+   npm install
