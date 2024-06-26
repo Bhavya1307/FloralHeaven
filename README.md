@@ -33,9 +33,11 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
 
 3. **Set up the database:**
    - Make sure you have MongoDB installed and running on your machine.
-   - Create a .env file in the root directory and add your MongoDB connection string:
+   - Add your MongoDB connection string in .env file:
    ```bash
-   MONGODB_URI=your_mongodb_connection_string
+   DBUSER=your_mongodb_username
+   DBPWD=your_mongodb_pass
+   DBHOST=your_mongodb_host
 
 ## Usage
 
@@ -50,7 +52,7 @@ FloralHeaven is built using Node.js and Express on the backend, with MongoDB as 
 
 1. To run the project in a development environment, use:
    ```bash
-   npm run dev
+   node index.js
 
 ## Technologies Used
 
